@@ -1,18 +1,10 @@
 # DEProject2
 visualization:
 1- date number of flights
-2- 
-
-
-
-
-
-for us:
-1- date in day month year and remove day of the week Done
-2- predict ELAPSED_TIME,AIR_TIME,WHEELS_ON,TAXI_IN,ARRIVAL_TIME,ARRIVAL_DELAY,ORIGIN_LATITUDE ,ORIGIN_LONGITUDE,DESTINATION_LATITUDE,DESTINATION_LONGITUDE     maybe
-3- speed of the plane d/t done
-
-3- 3 missing values in LATITUDE and LONGITUDE 
-4- Change the columns names done
-
-
+2- flight number and speed 
+3- date and speed based on weather
+4- DEPARTURE_DELAY and SCHEDULED_DEPARTURE and airline
+5- origin airport ,destination airport,and origin state 
+6- origin airport ,destination airport,and destination state 
+7- origin airport and cancelled
+8- date and diverted or cancelled
